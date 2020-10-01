@@ -9,7 +9,7 @@
 #'
 test_function <- function(test=TRUE){
   if(test==TRUE){
-    print("I love THUENEN tests!")
+    print("I love THUENEN tests! Alex")
   }
   else {
     print("THUENEN test did not work.")
